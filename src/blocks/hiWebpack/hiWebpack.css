@@ -1,0 +1,15 @@
+.hiWebpack {
+    text-align: center;
+    padding: 10%;
+}
+
+.hiWebpack__text {
+    color: pink;
+    font-size: 3em;
+    font-weight: 600;
+}
+
+.hiWebpack_position_center {
+    margin-left: auto;
+    margin-right: auto;
+}
