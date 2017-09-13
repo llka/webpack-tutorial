@@ -7,6 +7,7 @@ module.exports = {
     entry: {
         app: './src/index.js',
         hiWebpack: './src/blocks/hiWebpack/hiWebpack.js',
+        cars: './src/blocks/cars/cars.js'
     },
     output: {
         filename: '[name].bundle.js',
