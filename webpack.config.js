@@ -7,7 +7,9 @@ module.exports = {
     entry: {
         app: './src/index.js',
         hiWebpack: './src/blocks/hiWebpack/hiWebpack.js',
-        cars: './src/blocks/cars/cars.js'
+        cars: './src/blocks/cars/cars.js',
+        writer: './src/blocks/writers-private-symbol/writers.js',
+        building:'./src/blocks/buildings-private-weakmap/buildings.js'
     },
     output: {
         filename: '[name].bundle.js',
